@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bek-n
-- 👀 I’m interested in Programming
-- 👨🏻‍💻 I’m currently learning flutter
+- 👨🏻‍💻 I’m Flutter developer
 - 📫 How to reach me? My telegram nickname @bek_n
 
 <!---

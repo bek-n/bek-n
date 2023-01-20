@@ -34,6 +34,7 @@ You can click the Preview link to take a look at your changes.
    >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bek-n&show_icons=true" alt="Mukhammad Mirzo" />
   </a>
   
+  ![GitHub followers](https://img.shields.io/github/followers/bek-n?logo=GitHub&style=for-the-badge)
 
   
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bek-n" alt="Mukhammad Mirzo" /></a> </p>

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bek-n
+- 👋 Hi, I’m Mukhammad Mirzo
 - 👨🏻‍💻 I’m Flutter developer
 - 📫 How to reach me? My telegram nickname @bek_n
 
